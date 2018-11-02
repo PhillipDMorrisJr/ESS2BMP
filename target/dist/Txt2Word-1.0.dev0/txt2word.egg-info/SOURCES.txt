@@ -1,0 +1,8 @@
+setup.py
+txt2word.py
+txt2word.egg-info/PKG-INFO
+txt2word.egg-info/SOURCES.txt
+txt2word.egg-info/dependency_links.txt
+txt2word.egg-info/namespace_packages.txt
+txt2word.egg-info/top_level.txt
+txt2word.egg-info/zip-safe

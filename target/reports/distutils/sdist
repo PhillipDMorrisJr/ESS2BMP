@@ -1,0 +1,36 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-3.6' does not exist -- can't clean it
+running sdist
+running egg_info
+creating txt2word.egg-info
+writing txt2word.egg-info/PKG-INFO
+writing dependency_links to txt2word.egg-info/dependency_links.txt
+writing namespace_packages to txt2word.egg-info/namespace_packages.txt
+writing top-level names to txt2word.egg-info/top_level.txt
+writing manifest file 'txt2word.egg-info/SOURCES.txt'
+reading manifest file 'txt2word.egg-info/SOURCES.txt'
+writing manifest file 'txt2word.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt
+
+running check
+warning: check: missing required meta-data: url
+
+warning: check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating txt2word-1.0
+creating txt2word-1.0/txt2word.egg-info
+copying files to txt2word-1.0...
+copying setup.py -> txt2word-1.0
+copying txt2word.py -> txt2word-1.0
+copying txt2word.egg-info/PKG-INFO -> txt2word-1.0/txt2word.egg-info
+copying txt2word.egg-info/SOURCES.txt -> txt2word-1.0/txt2word.egg-info
+copying txt2word.egg-info/dependency_links.txt -> txt2word-1.0/txt2word.egg-info
+copying txt2word.egg-info/namespace_packages.txt -> txt2word-1.0/txt2word.egg-info
+copying txt2word.egg-info/top_level.txt -> txt2word-1.0/txt2word.egg-info
+copying txt2word.egg-info/zip-safe -> txt2word-1.0/txt2word.egg-info
+Writing txt2word-1.0/setup.cfg
+creating dist
+Creating tar archive
+removing 'txt2word-1.0' (and everything under it)
